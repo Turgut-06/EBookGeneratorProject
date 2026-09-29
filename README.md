@@ -8,6 +8,15 @@
 
 ---
 
+## 🤖 Yapay Zeka Destekli Geliştirme (AI-Assisted Engineering)
+
+Bu projenin geliştirme sürecinde mimari kurgudan UI/UX optimizasyonuna kadar geniş bir alanda **Yapay Zeka (AI)** araçlarından faydalanılmıştır.
+
+
+> 💡 *Not: AI tarafından üretilen kod parçaları ve çözüm önerileri; tip güvenliği (TypeScript), kod kalitesi ve performans standartları doğrultusunda manuel olarak incelenmiş, refactor edilmiş ve doğrulanmıştır.*
+
+---
+
 ## 🗄️ Veritabanı ve Depolama Stratejisi
 
 * **İlişkisel Veritabanı (MSSQL):** 
