@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "pPsDnnDGq4oujOT8LXjpsMq2YT4AGiKDElw1aa0TWxo=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\04_Kampus_Enerji.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/04_Kampus_Enerji#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uta57jfaqr",
+      "Integrity": "EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\04_Kampus_Enerji.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\02_Erisilebilir_Ulasim.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/02_Erisilebilir_Ulasim#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i69l00dobs",
+      "Integrity": "Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\02_Erisilebilir_Ulasim.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\03_Dijital_Arsiv.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/03_Dijital_Arsiv#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "encofnhytv",
+      "Integrity": "9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\03_Dijital_Arsiv.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\08_Uzaktan_Saglik.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/08_Uzaktan_Saglik#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1syc2v1uce",
+      "Integrity": "7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\08_Uzaktan_Saglik.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\04_Kampus_Enerji.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/04_Kampus_Enerji#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uta57jfaqr",
+      "Integrity": "EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\04_Kampus_Enerji.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\04_Kampus_Enerji.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/04_Kampus_Enerji#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uta57jfaqr",
+      "Integrity": "EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\04_Kampus_Enerji.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\04_Kampus_Enerji.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/04_Kampus_Enerji#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uta57jfaqr",
+      "Integrity": "EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\04_Kampus_Enerji.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\08_Uzaktan_Saglik.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/08_Uzaktan_Saglik#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1syc2v1uce",
+      "Integrity": "7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\08_Uzaktan_Saglik.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\01_Akilli_Sulama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/01_Akilli_Sulama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "40t9btxv8f",
+      "Integrity": "7LW7Qu/gfwHXA2kqBy30Od/EBdkn994LebLU/H8dQbY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\01_Akilli_Sulama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\06_Afet_Lojistigi.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/06_Afet_Lojistigi#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7lf3x904q",
+      "Integrity": "LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\06_Afet_Lojistigi.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\03_Dijital_Arsiv.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/03_Dijital_Arsiv#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "encofnhytv",
+      "Integrity": "9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\03_Dijital_Arsiv.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\10_Muze_Deneyimi.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/10_Muze_Deneyimi#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ulhkhw97qf",
+      "Integrity": "IheopUYD2aRoJoTJZl08oVkxhv8asc+27iQOVFWqqlo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\10_Muze_Deneyimi.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\06_Afet_Lojistigi.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/06_Afet_Lojistigi#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7lf3x904q",
+      "Integrity": "LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\06_Afet_Lojistigi.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\08_Uzaktan_Saglik.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/08_Uzaktan_Saglik#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1syc2v1uce",
+      "Integrity": "7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\08_Uzaktan_Saglik.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\04_Kampus_Enerji.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/04_Kampus_Enerji#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uta57jfaqr",
+      "Integrity": "EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\04_Kampus_Enerji.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\06_Afet_Lojistigi.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/06_Afet_Lojistigi#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7lf3x904q",
+      "Integrity": "LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\06_Afet_Lojistigi.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\02_Erisilebilir_Ulasim.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/02_Erisilebilir_Ulasim#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i69l00dobs",
+      "Integrity": "Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\02_Erisilebilir_Ulasim.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\04_Kampus_Enerji.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/04_Kampus_Enerji#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uta57jfaqr",
+      "Integrity": "EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\04_Kampus_Enerji.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\09_Atik_Toplama.docx",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/09_Atik_Toplama#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2hjxkstx6",
+      "Integrity": "0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\09_Atik_Toplama.docx"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9spqpjsl4",
+      "Integrity": "mRbXrm8d3abDcirnYpX0mZvdWau/HgdAZsOAgUqO/sw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cf9yn20gy",
+      "Integrity": "Ggz31Adjqsixmhj4Xrat/8ENmW57+i2RUAvKSF/P8h8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5b2tpegi14",
+      "Integrity": "8eGs2918PvNVG0iyN/AbQHV03PnIviUmBU+/nyeVfis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cmwvozcgjf",
+      "Integrity": "HAW2ni7eNArYsFwhiVQskQjTjEZ+6fhvbfIOjzSXCD8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.pdf",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/pdfs/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4oddoh15up",
+      "Integrity": "jC0iGHQMP5XUZOG5mwSdcYRRm11piOsJfCOO4ptuzSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\pdfs\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/04_Kampus_Enerji.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/04_Kampus_Enerji.uta57jfaqr.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uta57jfaqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/04_Kampus_Enerji.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-00eb7b4d-4ad0-4680-ace7-52fb8200ed41/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/02_Erisilebilir_Ulasim.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\02_Erisilebilir_Ulasim.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/02_Erisilebilir_Ulasim.i69l00dobs.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\02_Erisilebilir_Ulasim.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i69l00dobs"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/02_Erisilebilir_Ulasim.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/03_Dijital_Arsiv.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\03_Dijital_Arsiv.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/03_Dijital_Arsiv.encofnhytv.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\03_Dijital_Arsiv.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "encofnhytv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/03_Dijital_Arsiv.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/08_Uzaktan_Saglik.1syc2v1uce.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\08_Uzaktan_Saglik.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1syc2v1uce"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/08_Uzaktan_Saglik.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5/08_Uzaktan_Saglik.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5\\08_Uzaktan_Saglik.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/04_Kampus_Enerji.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/04_Kampus_Enerji.uta57jfaqr.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uta57jfaqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/04_Kampus_Enerji.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-e7ed3b7b-db69-445c-acd6-a00257c3b860/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/04_Kampus_Enerji.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/04_Kampus_Enerji.uta57jfaqr.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uta57jfaqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/04_Kampus_Enerji.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-ea889cf6-40a7-4d6f-8dee-8fd5536e27fe/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/04_Kampus_Enerji.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:03:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/04_Kampus_Enerji.uta57jfaqr.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:03:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uta57jfaqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/04_Kampus_Enerji.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/08_Uzaktan_Saglik.1syc2v1uce.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\08_Uzaktan_Saglik.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:03:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1syc2v1uce"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/08_Uzaktan_Saglik.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93/08_Uzaktan_Saglik.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93\\08_Uzaktan_Saglik.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:03:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/01_Akilli_Sulama.40t9btxv8f.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\01_Akilli_Sulama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7LW7Qu/gfwHXA2kqBy30Od/EBdkn994LebLU/H8dQbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "40t9btxv8f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/01_Akilli_Sulama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7LW7Qu/gfwHXA2kqBy30Od/EBdkn994LebLU/H8dQbY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/01_Akilli_Sulama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\01_Akilli_Sulama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7LW7Qu/gfwHXA2kqBy30Od/EBdkn994LebLU/H8dQbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7LW7Qu/gfwHXA2kqBy30Od/EBdkn994LebLU/H8dQbY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/06_Afet_Lojistigi.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\06_Afet_Lojistigi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/06_Afet_Lojistigi.y7lf3x904q.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305\\06_Afet_Lojistigi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7lf3x904q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305/06_Afet_Lojistigi.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/03_Dijital_Arsiv.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\03_Dijital_Arsiv.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/03_Dijital_Arsiv.encofnhytv.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\03_Dijital_Arsiv.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "encofnhytv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/03_Dijital_Arsiv.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9u6LeQ+lfUjq2hOqhLh9jaPT+xDBtllN+F5kCCIAigo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/10_Muze_Deneyimi.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\10_Muze_Deneyimi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IheopUYD2aRoJoTJZl08oVkxhv8asc+27iQOVFWqqlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IheopUYD2aRoJoTJZl08oVkxhv8asc+27iQOVFWqqlo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/10_Muze_Deneyimi.ulhkhw97qf.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7\\10_Muze_Deneyimi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IheopUYD2aRoJoTJZl08oVkxhv8asc+27iQOVFWqqlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulhkhw97qf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7/10_Muze_Deneyimi.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IheopUYD2aRoJoTJZl08oVkxhv8asc+27iQOVFWqqlo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/06_Afet_Lojistigi.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\06_Afet_Lojistigi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:16:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/06_Afet_Lojistigi.y7lf3x904q.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\06_Afet_Lojistigi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:16:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7lf3x904q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/06_Afet_Lojistigi.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/08_Uzaktan_Saglik.1syc2v1uce.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\08_Uzaktan_Saglik.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:16:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1syc2v1uce"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/08_Uzaktan_Saglik.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58/08_Uzaktan_Saglik.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58\\08_Uzaktan_Saglik.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:16:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xbb8AyPMUflrEkVzAgvH20FP19ACZoR53eBxPnW/jE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/04_Kampus_Enerji.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/04_Kampus_Enerji.uta57jfaqr.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uta57jfaqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/04_Kampus_Enerji.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/06_Afet_Lojistigi.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\06_Afet_Lojistigi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/06_Afet_Lojistigi.y7lf3x904q.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\06_Afet_Lojistigi.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7lf3x904q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/06_Afet_Lojistigi.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrAak7Rlv3Y8PLzI0vVfpa57T/Q5BZ7GxpdNjNQkHTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/02_Erisilebilir_Ulasim.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\02_Erisilebilir_Ulasim.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:18:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/02_Erisilebilir_Ulasim.i69l00dobs.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\02_Erisilebilir_Ulasim.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:18:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i69l00dobs"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/02_Erisilebilir_Ulasim.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg6cpuTuw/njN+f/aLTPQiBhHl7s/oait16My+tjhME="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:18:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:18:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/04_Kampus_Enerji.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/04_Kampus_Enerji.uta57jfaqr.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\04_Kampus_Enerji.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uta57jfaqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/04_Kampus_Enerji.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EslHJ7udiKkJNwM1u8W8Mz9fB35+3BGfazp+95Qhs4A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/09_Atik_Toplama.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/09_Atik_Toplama.n2hjxkstx6.docx",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\docx\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f\\09_Atik_Toplama.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2hjxkstx6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/docx/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f/09_Atik_Toplama.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZGDofOMsbeYwxnyyQ4C1HgCVGvIssBuzoUK7SBGA9E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.5ipweew5fc.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:59:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:59:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.5ipweew5fc.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme1-49f031ba-bae1-4d96-9ca3-703ea9b178e5.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 15:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.5ipweew5fc.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:03:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme1-ef8fcf0d-7ccf-4624-8dff-1e1ad14dad93.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:03:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.5ipweew5fc.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:04:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme35435-71928f8f-001f-46f5-8fe3-394c2a0a0305.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:04:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mRbXrm8d3abDcirnYpX0mZvdWau/HgdAZsOAgUqO/sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:06:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mRbXrm8d3abDcirnYpX0mZvdWau/HgdAZsOAgUqO/sw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.z9spqpjsl4.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mRbXrm8d3abDcirnYpX0mZvdWau/HgdAZsOAgUqO/sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 16:06:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9spqpjsl4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/deneme4324324-e2cb267b-5ef9-4c5d-ad38-7f7610c286b7.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mRbXrm8d3abDcirnYpX0mZvdWau/HgdAZsOAgUqO/sw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.6cf9yn20gy.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ggz31Adjqsixmhj4Xrat/8ENmW57+i2RUAvKSF/P8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:16:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cf9yn20gy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ggz31Adjqsixmhj4Xrat/8ENmW57+i2RUAvKSF/P8h8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\gdfgdfg-d668b6af-4102-42dd-9031-b3273d9cad58.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ggz31Adjqsixmhj4Xrat/8ENmW57+i2RUAvKSF/P8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:16:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ggz31Adjqsixmhj4Xrat/8ENmW57+i2RUAvKSF/P8h8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.5b2tpegi14.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8eGs2918PvNVG0iyN/AbQHV03PnIviUmBU+/nyeVfis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5b2tpegi14"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8eGs2918PvNVG0iyN/AbQHV03PnIviUmBU+/nyeVfis="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\sdfsdfds-bf9b5452-21d9-4648-a2a5-15cb90940595.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8eGs2918PvNVG0iyN/AbQHV03PnIviUmBU+/nyeVfis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Sep 2026 07:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8eGs2918PvNVG0iyN/AbQHV03PnIviUmBU+/nyeVfis="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.cmwvozcgjf.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAW2ni7eNArYsFwhiVQskQjTjEZ+6fhvbfIOjzSXCD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:18:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmwvozcgjf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HAW2ni7eNArYsFwhiVQskQjTjEZ+6fhvbfIOjzSXCD8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\test345325-023cebf3-d9be-4d6c-9048-172a48a0fb06.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAW2ni7eNArYsFwhiVQskQjTjEZ+6fhvbfIOjzSXCD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:18:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HAW2ni7eNArYsFwhiVQskQjTjEZ+6fhvbfIOjzSXCD8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.4oddoh15up.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC0iGHQMP5XUZOG5mwSdcYRRm11piOsJfCOO4ptuzSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4oddoh15up"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/pdfs/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jC0iGHQMP5XUZOG5mwSdcYRRm11piOsJfCOO4ptuzSI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/pdfs/test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.pdf",
+      "AssetFile": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\test9432532785-06635d04-084e-4801-9698-f9758f56cf2f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC0iGHQMP5XUZOG5mwSdcYRRm11piOsJfCOO4ptuzSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Sep 2026 19:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jC0iGHQMP5XUZOG5mwSdcYRRm11piOsJfCOO4ptuzSI="
+        }
+      ]
+    }
+  ]
+}
