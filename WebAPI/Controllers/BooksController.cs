@@ -1,6 +1,7 @@
 ﻿using Application.Features.Books.Commands;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 
 namespace WebAPI.Controllers;
 
@@ -13,6 +14,7 @@ public class BooksController : ControllerBase
     public BooksController(IMediator mediator) => _mediator = mediator;
 
     [HttpPost("generate")]
+    [EnableRateLimiting("EBookGeneratePolicy")] 
     public async Task<IActionResult> CreateBook([FromForm] string bookName, [FromForm] List<IFormFile> files)
     {
         try

@@ -5,6 +5,7 @@ using QuestPDF.Drawing;
 using System.IO;
 using System.Net.Http;
 using Persistence.Context;
+using System.Threading.RateLimiting;
 
 string fontUrl = "https://raw.githubusercontent.com/google/fonts/main/ofl/roboto/Roboto-Regular.ttf";
 
@@ -25,6 +26,36 @@ catch (Exception ex)
 
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Rate Limiting Configuration
+builder.Services.AddRateLimiter(options =>
+{
+    // Limite takılan istemcilere 429 Too Many Requests statüsü dön
+    options.RejectionStatusCode = StatusCodes.Status429TooManyRequests;
+
+    // 1. Politika: Fixed Window (Sabit Pencere)
+    // Örnek: Aynı IP adresinden 1 dakika içinde en fazla 5 e-kitap oluşturma isteği atılabilsin.
+    options.AddPolicy("EBookGeneratePolicy", httpContext =>
+        RateLimitPartition.GetFixedWindowLimiter(
+            // İstemci IP adresine göre ayırt et
+            partitionKey: httpContext.Connection.RemoteIpAddress?.ToString() ?? "anonymous",
+            factory: _ => new FixedWindowRateLimiterOptions
+            {
+                AutoReplenishment = true,
+                PermitLimit = 5,                  // 1 dakikada izin verilen istek sayısı
+                QueueLimit = 0,                   // Kuyrukta bekletme yapılmasın
+                Window = TimeSpan.FromMinutes(1)  // Zaman penceresi
+            }));
+
+    // Opsiyonel: Limite takılan kullanıcıya detaylı JSON mesajı dönme
+    options.OnRejected = async (context, token) =>
+    {
+        context.HttpContext.Response.ContentType = "application/json";
+        await context.HttpContext.Response.WriteAsync(
+            "{\"message\": \"Çok fazla e-kitap dönüştürme isteğinde bulundunuz. Lütfen 1 dakika sonra tekrar deneyin.\"}",
+            cancellationToken: token);
+    };
+});
 
 // DbContext Kayd?
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -86,6 +117,7 @@ if (!Directory.Exists(docxPath)) Directory.CreateDirectory(docxPath);
 if (!Directory.Exists(pdfsPath)) Directory.CreateDirectory(pdfsPath);
 
 app.UseCors("AllowReactApp");
+app.UseRateLimiter(); 
 app.UseAuthorization();
 
 //app.MapControllers();
@@ -102,6 +134,6 @@ catch (System.Reflection.ReflectionTypeLoadException ex)
         System.Diagnostics.Debug.WriteLine($"---> EKSİK KÜTÜPHANE DETAYI: {loaderEx?.Message}");
         Console.WriteLine($"---> EKSİK KÜTÜPHANE DETAYI: {loaderEx?.Message}");
     }
-    throw; 
-
+    throw;
+}
 app.Run();

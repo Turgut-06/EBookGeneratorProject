@@ -30,6 +30,7 @@ C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\P
 C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
 C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
 C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
 C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
 C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\Persistence.dll
 C:\Projects\E-book_Project_backend\EBookGenerator\Persistence\obj\Debug\net9.0\refint\Persistence.dll

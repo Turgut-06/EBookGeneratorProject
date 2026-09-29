@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C33CEB78-F91F-40AF-9A29-4434988BC49D}|Solution Items{C33CEB78-F91F-40AF-9A29-4434988BC49D}|C:\\Projects\\E-book_Project_backend\\EBookGenerator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C33CEB78-F91F-40AF-9A29-4434988BC49D}|Solution Items{C33CEB78-F91F-40AF-9A29-4434988BC49D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\application\\features\\books\\dtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|solutionrelative:application\\features\\books\\dtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\application\\features\\books\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,24 +67,12 @@
       "RelativeMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|solutionrelative:application\\common\\helpers\\foldernamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\webapi\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3142920D-A4EE-45C2-BF89-7121179CDDF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D96B97F-4E0A-4689-9BFE-3AA5236ED0B3}|Persistence\\Persistence.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9D96B97F-4E0A-4689-9BFE-3AA5236ED0B3}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B0931E33-48C1-4888-9199-5577598C7E24}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86A0DE8E-B915-4C0B-8EF7-ECA1D1280284}|Infrastructure\\Infrastructure.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,6 +93,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D96B97F-4E0A-4689-9BFE-3AA5236ED0B3}|Persistence\\Persistence.csproj|c:\\projects\\e-book_project_backend\\ebookgenerator\\persistence\\migrations\\20260928153523_db_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D96B97F-4E0A-4689-9BFE-3AA5236ED0B3}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20260928153523_db_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,23 +106,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PdfGeneratorService.cs",
-              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Infrastructure\\Services\\PdfGeneratorService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\PdfGeneratorService.cs",
-              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Infrastructure\\Services\\PdfGeneratorService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\PdfGeneratorService.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAwwIoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T15:26:36.771Z"
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-29T12:28:16.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Persistence\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Persistence\\Context\\AppDbContext.cs",
@@ -134,19 +135,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\Controllers\\BooksController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T19:23:07.541Z"
+              "WhenOpened": "2026-09-28T19:23:07.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CreateBookCommand.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Features\\Books\\Commands\\CreateBookCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Books\\Commands\\CreateBookCommand.cs",
@@ -158,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CreateBookCommandHandler.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Features\\Books\\Commands\\CreateBookCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Books\\Commands\\CreateBookCommandHandler.cs",
@@ -170,32 +172,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookResponseDto.cs",
-              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Features\\Books\\Dtos\\BookResponseDto.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Books\\Dtos\\BookResponseDto.cs",
-              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Features\\Books\\Dtos\\BookResponseDto.cs",
-              "RelativeToolTip": "Application\\Features\\Books\\Dtos\\BookResponseDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T06:46:11.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwHgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:42:22.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T15:25:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T13:41:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PdfGeneratorService.cs",
+              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Infrastructure\\Services\\PdfGeneratorService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PdfGeneratorService.cs",
+              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Infrastructure\\Services\\PdfGeneratorService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PdfGeneratorService.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAwwIoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:26:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ContactCleanerService.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Infrastructure\\Services\\ContactCleanerService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\ContactCleanerService.cs",
@@ -207,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
@@ -219,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Paper.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Domain\\Entities\\Paper.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Paper.cs",
@@ -231,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IPdfGeneratorService.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Common\\Interfaces\\IPdfGeneratorService.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IPdfGeneratorService.cs",
@@ -243,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IContactCleanerService.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Common\\Interfaces\\IContactCleanerService.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IContactCleanerService.cs",
@@ -255,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IAppDbContext.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Common\\Interfaces\\IAppDbContext.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAppDbContext.cs",
@@ -267,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "FolderNameHelper.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Common\\Helpers\\FolderNameHelper.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Helpers\\FolderNameHelper.cs",
@@ -279,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
               "RelativeDocumentMoniker": "WebAPI\\wwwroot\\uploads\\pdfs\\deneme132-42d568ee-d6cc-4e85-b97d-73048c276205.pdf",
@@ -299,11 +327,12 @@
               "RelativeToolTip": "Persistence\\Persistence.csproj",
               "ViewState": "AgIAAAIAAAAAAAAAAADwvxEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-28T15:36:07.734Z"
+              "WhenOpened": "2026-09-28T15:36:07.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -327,19 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-28T15:25:35.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "20260928155309_InitialCreate.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Persistence\\Migrations\\20260928155309_InitialCreate.cs",
               "RelativeDocumentMoniker": "Persistence\\Migrations\\20260928155309_InitialCreate.cs",
@@ -351,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "20260928153523_db_Created.cs",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Persistence\\Migrations\\20260928153523_db_Created.cs",
               "RelativeDocumentMoniker": "Persistence\\Migrations\\20260928153523_db_Created.cs",
@@ -363,19 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-28T13:41:47.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
@@ -387,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "WebAPI.csproj",
               "DocumentMoniker": "C:\\Projects\\E-book_Project_backend\\EBookGenerator\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
@@ -395,7 +400,8 @@
               "RelativeToolTip": "WebAPI\\WebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-28T15:19:38.096Z"
+              "WhenOpened": "2026-09-28T15:19:38.096Z",
+              "EditorCaption": ""
             }
           ]
         }

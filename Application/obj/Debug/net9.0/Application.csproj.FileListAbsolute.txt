@@ -23,6 +23,7 @@ C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\A
 C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
 C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
 C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\Application.sourcelink.json
 C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
 C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\Application.dll
 C:\Projects\E-book_Project_backend\EBookGenerator\Application\obj\Debug\net9.0\refint\Application.dll
